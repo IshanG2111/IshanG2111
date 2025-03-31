@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm FierceKO
 
-![Profile Banner](https://giphy.com/gifs/70s-daisylemonart-daisy-lemon-x1CjxowaWEV1YXV47t)
+![Profile Banner](https://media.giphy.com/media/x1CjxowaWEV1YXV47t/giphy.gif)
 
 🚀 **Tech Enthusiast | Coder | Video Editor | VFX Artist | Animator**
 
