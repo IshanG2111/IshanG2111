@@ -19,15 +19,13 @@
 - 🎬 **Creative:** Video Editing, VFX, Animation
 - ⚡ **Interests:** AI, Game Development, Web Dev
 - 🔧 **Tools:** IntelliJ, VS Code, After Effects, Blender
-- 🕹️ **Frameworks/Libraries:** Swing, JDBC, OpenGL, Three.js
+- 🕹️ **Frameworks/Libraries:** Swing, JDBC
 
 ---
 
 ### 🌱 Currently Learning:
 - 🤖 **AI & Machine Learning** for creative applications
-- 🎮 **Game development** using Java & Unity
-- 🚀 **Advanced front-end frameworks** (React, Three.js)
-- 🏗️ **Back-end development** with Node.js & Databases
+- 🎮 **Game development** using Java & UE
 
 ---
 
