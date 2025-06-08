@@ -73,12 +73,6 @@ A narrative-driven video combining 3D animation and visual effects.
 
 ---
 
-### 📫 Get In Touch
-
-* **Email:** [fierceko@example.com]()
-* **LinkedIn:** [linkedin.com/in/fierceko]()
-* **Portfolio:** [www.fierceko.dev]()
-
 ![Coding Gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
 > 🚀 Let’s collaborate and build something **awesome** together! 🔥
