@@ -43,7 +43,7 @@ I’m passionate about blending **technology** and **creativity**. Whether I’m
 * **IDEs:** IntelliJ IDEA, VS Code
 * **Version Control:** Git & GitHub
 * **Database:** JDBC, SQL\*Plus
-* **Libraries:** Java Swing, Recharts (for web experiments)
+* **Libraries:** Java Swing, 
 
 ---
 
