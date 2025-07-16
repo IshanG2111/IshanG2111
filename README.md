@@ -1,4 +1,4 @@
-## 👋 Hello, I'm **FierceKO**
+## 👋 Hello, I'm **Ishan**
 
 ![Profile Banner](https://media.giphy.com/media/x1CjxowaWEV1YXV47t/giphy.gif)
 
