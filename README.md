@@ -72,24 +72,6 @@
 
 ---
 
-## 🔭 Current Learning Map
-
-```mermaid
-graph TD
-  AI[🤖 AI Art & ML]
-  GAME[🎮 Unreal Engine]
-  VFX[🎬 Real-Time FX]
-  WEB[🌐 React & UI]
-  CENTER[🚀 Future Projects]
-
-  AI --> CENTER
-  GAME --> CENTER
-  VFX --> CENTER
-  WEB --> CENTER
-🌐 Let’s Connect!
-<div align="center">
-
-
 
 
 </div>
