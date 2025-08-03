@@ -61,13 +61,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanG2111&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanG2111&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IshanG2111&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanG2111&theme=tokyonight&layout=compact&langs_count=6&hide=shaderlab,hlsl,tex&custom_title=Most+Used+Languages&include_private=true&langs=Java,C,HTML,CSS,JavaScript,Python" height="180" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IshanG2111&theme=tokyonight" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=IshanG2111&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
+
 
 ---
 
