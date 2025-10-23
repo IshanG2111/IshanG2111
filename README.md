@@ -3,7 +3,7 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Ishan%20Ghosh&fontSize=48)
 
 <!-- Hero GIF: subtle, developer-focused -->
-![Hero Coding Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Hero Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG10NGE1Yng5N3MyMTZpMjB1cHprM3VtZ3U0dnBvaWduZGZ1aDhoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif)
 
 I'm an AI & Front‑End Developer currently pursuing a B.Tech in Computer Science and Engineering at KIIT University, Bhubaneswar (Class of 2027). I build scalable, accessible web applications and integrate AI components to automate workflows and enhance user experiences.
 
