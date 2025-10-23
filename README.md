@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m **Ishan Ghosh**
 
-![Developer Animation](https://media.giphy.com/media/WiI4vdxMjge8c/giphy.gif)
+![Developer Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB5cnAxMW1jZ2UzZjRxZWV6c2Y4bGc5NDgwb2YwZHc0dXgydmFiOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ## 🧠 About Me
 
