@@ -96,7 +96,7 @@ This section is automatically updated by your repository workflow. It lists the 
 ---
 
 <!-- Subtle celebration at the end -->
-![Footer Sparkle](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Footer Sparkle](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRqMzM0Z2J1cXZmM3lsNTZzNjVibGthNjZ5dHl1NTRneHBwZXVpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyxovVLbfZdok/giphy.gif)
 
 Love talking tech & art? Drop a message — let’s make something awesome together!
 
