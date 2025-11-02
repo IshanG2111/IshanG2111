@@ -55,19 +55,6 @@ I'm an AI & Front‑End Developer currently pursuing a B.Tech in Computer Scienc
   Repo: https://github.com/IshanG2111/ar-notes-opener  
   Tech: OpenCV, MediaPipe — touchless AR viewer that improves safety and accessibility.
 
-- 🎮 **Pac‑Man AI**  
-  Repo: https://github.com/IshanG2111/Pac-Man-AI  
-  Tech: Java — enhanced ghost AI & gameplay mechanics.
-
-- 🎥 **VFX Short Film**  
-  Repo: https://github.com/IshanG2111/VFX-Short-Film  
-  Tools: Blender, After Effects — 3D renders and compositing for cinematic pieces.
-
-- 🛠️ **Multi-User Platform**  
-  Repo: https://github.com/IshanG2111/MultiUser  
-  Tech: Java threads, real-time communication — multi-user collaboration and concurrency control.
-
----
 
 ## ✨ Latest Updated Repositories (auto-generated)
 
