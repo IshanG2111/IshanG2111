@@ -1,4 +1,4 @@
-# 🌊 **Ishan Ghosh**
+# **Ishan Ghosh**
 
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Ishan%20Ghosh&fontSize=48)
 
