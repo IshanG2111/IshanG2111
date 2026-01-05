@@ -86,13 +86,5 @@ Repo: https://github.com/IshanG2111/ar-notes-opener
 
 ---
 
-# 👁️ Profile Visits
-![](https://visitcount.itsvg.in/api?id=IshanG2111&icon=0&color=5)
-
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRqMzM0Z2J1cXZmM3lsNTZzNjVibGthNjZ5dHl1NTRneHBwZXVpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyxovVLbfZdok/giphy.gif" width="300"/>
-</p>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
