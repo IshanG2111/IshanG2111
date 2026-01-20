@@ -71,20 +71,11 @@ Repo: https://github.com/IshanG2111/ar-notes-opener
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IshanG2111&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # 🧩 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-# 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=IshanG2111&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
