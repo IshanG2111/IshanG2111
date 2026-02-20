@@ -123,10 +123,21 @@ I build scalable, accessible applications and integrate AI, CV & automation into
       </a>
     </td>
     <td width="50%" valign="top">
-      <br/>
-      <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=300&lines=More+projects+coming+soon...+%F0%9F%9A%80" />
-      </div>
+      <h3>🤖 LeetCode AI Sync</h3>
+      <p><strong>Automated Knowledge Pipeline</strong></p>
+      <p>A production-grade n8n automation that fetches your LeetCode history, runs deep AI analysis via Gemini 2.5, and stores structured insights — complexity, patterns, tips — into a Notion knowledge base with Discord notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+      </p>
+      <p>
+        ⚡ Processes 1,000 submissions · 10-section AI analysis per problem · &lt;5s incremental sync
+      </p>
+      <a href="https://github.com/IshanG2111/LC-automation">
+        <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
+      </a>
     </td>
   </tr>
 </table>
