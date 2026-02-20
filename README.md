@@ -18,37 +18,63 @@ I build scalable, accessible applications and integrate AI, CV & automation into
 
 # 📬 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishan.ghosh2004@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ishan-ghosh-7b33a4336/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  <a href="mailto:ishan.ghosh2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail" title="Gmail"/>
+  </a>
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-## **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## **Programming Languages**
 
-## **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript (ES6+)"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL" title="SQL"/>
+</p>
 
-## **AI / Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F61?style=for-the-badge&logo=mediapipe&logoColor=white)
+## **Web & Backend**
 
-## **Creative Tools**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" title="React.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" title="Firebase"/>
+</p>
 
+## **Automation & AI**
+
+<p align="left">
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/n8n-color.png" height="60" alt="n8n" title="n8n"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png" height="60" alt="Gemini API" title="Gemini API"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="Notion API" title="Notion API"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="Prompt Engineering" title="Prompt Engineering"/>
+</p>
+
+## **Computer Vision**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="OpenCV" title="OpenCV"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=for-the-badge&logo=mediapipe&logoColor=white" height="40" alt="MediaPipe" title="MediaPipe"/>
+</p>
+
+## **Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="CI/CD" title="CI/CD"/>
+</p>
 ---
 
 # 🚀 Featured Projects
