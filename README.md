@@ -77,23 +77,59 @@ I build scalable, accessible applications and integrate AI, CV & automation into
 </p>
 ---
 
-# 🚀 Featured Projects
+##🚀 Featured Projects
 
-### 🌱 **EcoQuest — Gamified Sustainability Platform**  
-**Live:** https://ecoquest-woad.vercel.app/desktop  
-**Tech:** Next.js, TypeScript, Firebase, Tailwind, shadcn/ui  
-
----
-
-### 🏭 **SWM Doc Viewer — Digitized Factory SOPs**  
-Repo: https://github.com/IshanG2111/MultiUser/tree/main/Project-1(SWM)  
-**Tech:** HTML, CSS, JavaScript — deployed across 100+ screens for digital documentation.
-
----
-
-### 🧠 **Gesture-Based AR Doc Viewer**  
-Repo: https://github.com/IshanG2111/ar-notes-opener  
-**Tech:** OpenCV, MediaPipe — hands-free AR interface.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 EcoQuest</h3>
+      <p><strong>Gamified Sustainability Platform</strong></p>
+      <p>A Next.js + Firebase powered platform that turns eco-friendly habits into an engaging game. Built with TypeScript, Tailwind, and shadcn/ui.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <a href="https://ecoquest-woad.vercel.app/desktop">
+        <img src="https://img.shields.io/badge/🌐 Live Demo-6D28D9?style=for-the-badge"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 SWM Doc Viewer</h3>
+      <p><strong>Digitized Factory SOPs</strong></p>
+      <p>A digital documentation system deployed across 100+ screens, replacing paper-based SOPs with a clean, accessible web viewer built in vanilla HTML/CSS/JS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/IshanG2111/MultiUser/tree/main/Project-1(SWM)">
+        <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Gesture-Based AR Doc Viewer</h3>
+      <p><strong>Hands-Free AR Interface</strong></p>
+      <p>A computer vision powered AR interface that lets users navigate documents using hand gestures — no touch required. Built with OpenCV and MediaPipe.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/IshanG2111/ar-notes-opener">
+        <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=300&lines=More+projects+coming+soon...+%F0%9F%9A%80" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
