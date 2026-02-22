@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG10NGE1Yng5N3MyMTZpMjB1cHprM3VtZ3U0dnBvaWduZGZ1aDhoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="500"/>
 </p>
 
-I’m an **AI Engineer & Front-End Developer** currently pursuing **B.Tech CSE (2027)** at **KIIT University**.  
+I’m an **AI Automation Engineer & Web Developer**.  
 I build scalable, accessible applications and integrate AI, CV & automation into real-world systems.
 
 - 🔭 **Currently building:** EcoQuest — gamified sustainability + AI  
