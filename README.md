@@ -18,15 +18,22 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
 
 ## 🚀 Featured Projects
 
+> A few public projects I’ve built across AI automation, computer vision, and web apps.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌱 EcoQuest</h3>
-      <p><strong>Gamified Sustainability Platform</strong></p>
-      <p>A Next.js + Firebase platform that turns eco-friendly habits into an engaging game. Built with TypeScript, Tailwind, and shadcn/ui.</p>
+      <p><strong>Gamified Sustainability Learning Platform</strong></p>
+      <ul>
+        <li>Retro-themed <strong>Eco-OS</strong> UI with draggable windows + mini-games (Forest Guardian, Ocean Explorer, Eco City Builder, etc.).</li>
+        <li>Teacher dashboard + student progress gamification (points, streaks, badges).</li>
+        <li>Built with <strong>Next.js App Router</strong>, <strong>TypeScript</strong>, <strong>Tailwind</strong>, <strong>shadcn/ui</strong>.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <p>
@@ -40,8 +47,12 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
     </td>
     <td width="50%" valign="top">
       <h3>🤖 LeetCode AI Sync</h3>
-      <p><strong>Automated Knowledge Pipeline</strong></p>
-      <p>A production-grade n8n automation that fetches your LeetCode history, runs AI analysis via Gemini, and stores structured insights into a Notion knowledge base with Discord notifications.</p>
+      <p><strong>Automated Knowledge Pipeline (n8n + Gemini + Notion)</strong></p>
+      <ul>
+        <li>Two workflows: <strong>full history migration</strong> (deep AI analysis) + <strong>ongoing sync</strong> (fast incremental updates).</li>
+        <li>Uses Gemini prompts to generate structured analysis (complexity, patterns, pitfalls, similar problems, interview tips).</li>
+        <li>Writes to Notion DB + sends Discord notifications.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
@@ -55,11 +66,37 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
       </p>
     </td>
   </tr>
+
   <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather Jams</h3>
+      <p><strong>AI-Powered Atmospheric DJ</strong></p>
+      <ul>
+        <li>Autonomous agent that curates Spotify playlists based on real-time weather.</li>
+        <li>Uses Gemini to translate weather → vibe → semantic Spotify queries (after recommendations endpoint changes).</li>
+        <li>Stores results in a Notion dashboard.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/IshanG2111/weather-jams-agent">
+          <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+
     <td width="50%" valign="top">
       <h3>🧠 Gesture-Based AR Doc Viewer</h3>
       <p><strong>Hands-Free AR Interface</strong></p>
-      <p>A computer vision powered AR interface that lets users navigate documents using hand gestures — no touch required. Built with OpenCV and MediaPipe.</p>
+      <ul>
+        <li>Fullscreen, high-resolution camera view with a clean overlay UI.</li>
+        <li>Gesture-driven navigation: category selection + file selection + thumbs-up confirmation.</li>
+        <li>Performance-focused (stability frames, cooldown) with cross-platform file opening.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=flat-square&logoColor=white"/>
@@ -71,10 +108,17 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
         </a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🎛️ Gesture-Based Media Controls</h3>
       <p><strong>Computer Vision Media Controller</strong></p>
-      <p>Control media playback with hand gestures using Python, OpenCV, and MediaPipe — a lightweight CV project focused on reliable gesture detection.</p>
+      <ul>
+        <li>Maps finger patterns (MediaPipe landmarks) to system media keys.</li>
+        <li>Gesture locking + cooldown to avoid accidental triggers.</li>
+        <li>Optional UI overlay + IP camera stream support.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -82,6 +126,25 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
       </p>
       <p>
         <a href="https://github.com/IshanG2111/Gesture-Based-Media-Controls">
+          <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>📄 Automatic Excel Sheets → PDF Extractor</h3>
+      <p><strong>VBA Automation Utility</strong></p>
+      <ul>
+        <li>Exports every sheet in a workbook into its own PDF with one click.</li>
+        <li>Auto folder creation + naming by sheet name.</li>
+        <li>Simple, practical automation for reporting workflows.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/VBA-867DB1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/IshanG2111/Automatic-excel-sheets-to-pdf-extractor">
           <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
         </a>
       </p>
