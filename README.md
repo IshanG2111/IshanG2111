@@ -82,7 +82,7 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       </p>
       <p>
-        <a href="https://github.com/IshanG2111/Rainfall-Prediction-Model">
+        <a href="https://github.com/IshanG2111/Rainfall-Prediction-Model-">
           <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
         </a>
       </p>
