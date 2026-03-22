@@ -86,6 +86,22 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🌧️ Rainfall Prediction Model</h3>
+      <p><strong>Machine Learning Weather Forecasting</strong></p>
+      <p>A machine learning model that predicts rainfall using historical weather data. Built with Python, scikit-learn, and pandas — featuring data preprocessing, feature engineering, and model evaluation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/IshanG2111/Rainfall-Prediction-Model">
+          <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
