@@ -72,21 +72,6 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎛️ Gesture-Based Media Controls</h3>
-      <p><strong>Computer Vision Media Controller</strong></p>
-      <p>Control media playback with hand gestures using Python, OpenCV, and MediaPipe — a lightweight CV project focused on reliable gesture detection.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=flat-square&logoColor=white"/>
-      </p>
-      <p>
-        <a href="https://github.com/IshanG2111/Gesture-Based-Media-Controls">
-          <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌧️ Rainfall Prediction Model</h3>
       <p><strong>Machine Learning Weather Forecasting</strong></p>
       <p>A machine learning model that predicts rainfall using historical weather data. Built with Python, scikit-learn, and pandas — featuring data preprocessing, feature engineering, and model evaluation.</p>
@@ -101,7 +86,6 @@ I build scalable, accessible applications and integrate **AI, computer vision, a
           <img src="https://img.shields.io/badge/📁 Repository-24243e?style=for-the-badge"/>
         </a>
       </p>
-    </td>
   </tr>
 </table>
 
