@@ -153,7 +153,7 @@ I'm a Computer Science undergrad at KIIT University with a passion for building 
 |---|---|
 | 🥇 MIT Sloan AI Hackathon | **Top 1,500 globally** — 2025 |
 | 🇮🇳 Smart India Hackathon | National-level participant |
-| 🧠 DSA Grind | **900+ problems** on LeetCode, Codeforces & GFG |
+| 🧠 DSA Grind | **900+ problems** on LeetCode, Codechef & GFG |
 | 🌐 Google Developer Program | **Premium Tier** member |
 | 📮 Postman Student Expert | Certified in REST API design & testing |
 | 🔓 Open Source (GSSoC 2025) | 15+ merged PRs · Dark mode shipped globally |
