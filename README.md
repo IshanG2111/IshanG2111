@@ -138,8 +138,6 @@ I'm a Computer Science undergrad at KIIT University with a passion for building 
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" height="48"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=for-the-badge&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="38"/>
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="38"/>
