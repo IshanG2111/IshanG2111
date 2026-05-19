@@ -148,7 +148,7 @@ I'm a Computer Science undergrad at KIIT University with a passion for building 
 | 🧠 DSA Grind | **1000+ problems** on LeetCode, Codechef & GFG |
 | 🌐 Google Developer Program | **Premium Tier** member |
 | 📮 Postman Student Expert | Certified in REST API design & testing |
-| 🔓 Open Source (GSSoC 2025) | 15+ merged PRs · Dark mode shipped globally |
+| 🔓 Open Source (GSSoC 2025) | 15+ merged components · Dark mode shipped globally |
 | 🏭 Industry Experience | SWE Intern @ **Tata Cummins** — 95% user adoption at launch |
 
 ---
