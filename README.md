@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ishan%20Ghosh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+at+the+intersection+of+AI+%26+Web;ML+Pipelines+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-Stack;Top+1%2C500+MIT+Sloan+AI+Hackathon+%F0%9F%8F%86;1100%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+at+the+intersection+of+AI+%26+Web;ML+Pipelines+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-Stack;Top+1%2C500+MIT+Sloan+AI+Hackathon+%F0%9F%8F%86;1000%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
