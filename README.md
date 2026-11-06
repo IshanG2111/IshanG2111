@@ -33,7 +33,7 @@ I'm a Computer Science undergrad at KIIT University with a passion for building 
 <a href="https://music.apple.com" target="_blank">
   <img src="https://apple-music-readme-snowy.vercel.app/?" alt="Currently Playing on Apple Music" height="380"/>
 </a>
-
+<img src="git-koi.gif" alt="My GitHub Koi" />
 </div>
 
 ---
@@ -49,7 +49,6 @@ I'm a Computer Science undergrad at KIIT University with a passion for building 
 <a href="https://leetcode.com/Ishan_Ghosh21/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/Ishan_Ghosh21?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="185" alt="LeetCode Stats"/>
 </a>
-
 </div>
 
 ---
