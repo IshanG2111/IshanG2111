@@ -1,81 +1,127 @@
+<!-- PROFILE README · CONTENT-FIRST EDITORIAL VERSION -->
+
+<div align="center">
+  <img src="assets/profile-hero.svg" alt="Ishan Ghosh — building software across full-stack, AI, security and creative computing" width="100%" />
+</div>
+
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Ishan Ghosh — software engineer, full-stack developer and AI systems builder" width="100%" />
-
-<p>
-  <a href="https://www.linkedin.com/in/ishan-ghosh-7b33a4336/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-ishang.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C6EE6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ishan.ghosh2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-**Computer Science undergraduate · Full-stack engineering · AI systems**
+[Portfolio](https://portfolio-ishang.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/) · [Email](mailto:ishan.ghosh2004@gmail.com)
 
 </div>
 
 ---
 
-## About
+I'm **Ishan** — a Computer Science student and software builder interested in the intersection of **full-stack engineering, AI, security tooling and creative technology**.
 
-I'm **Ishan Ghosh**, a Computer Science undergraduate at **KIIT University (B.Tech, 2027)**. I enjoy building software that connects thoughtful interfaces with dependable systems — from full-stack applications and developer tools to machine-learning workflows and computer-vision experiments.
+I like taking an idea from a rough sketch to something that works: designing the interface, connecting the systems behind it, automating the repetitive parts, and figuring out the details that make the experience feel complete.
 
-My experience includes engineering work in enterprise environments at **Tata Cummins** and **Tata Motors**. I’m especially interested in the parts of software engineering where product thinking meets systems-level problem solving.
+<details>
+<summary><strong>A little more about me</strong></summary>
 
-## Selected work
+- 🎓 Computer Science, KIIT University · 2027
+- 🧰 Experience across enterprise software, full-stack product development, ML workflows and computer vision
+- 🧪 I learn by building experiments—not just collecting frameworks
+- 🎞️ Outside code: cinema, music, editing, VFX, animation and visual design
 
-A few projects that represent the kind of problems I like working on.
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[ARVE](https://github.com/IshanG2111/ARVE)** | Application-security analysis platform combining dependency scanning, secret detection, SAST, code intelligence, normalized findings and report generation. | Python · FastAPI · React · TypeScript · PostgreSQL · Docker |
-| **[EcoQuest](https://github.com/IshanG2111/EcoQuest)** · [Live demo](https://ecoquest-woad.vercel.app/) | A gamified ecological-learning environment with an interactive knowledge graph, retro-inspired interface and learning progression. | Next.js · TypeScript · Firebase · MongoDB |
-| **[वृष्टि AI](https://github.com/IshanG2111/RainFall-Prediction-Model-)** | Rainfall-forecasting project built around INSAT-3DR satellite-derived features, a machine-learning pipeline and a web interface. | Python · scikit-learn · FastAPI · React |
-| **[DREAMSCAPE](https://github.com/IshanG2111/DREAMSCAPE)** | An audiovisual experiment combining album artwork, generative ASCII imagery, kinetic lyrics and audio-reactive visuals. | Web technologies · Generative graphics · Audio |
-| **[Aergia Engine](https://github.com/IshanG2111/leetcode-auto-sync)** | Developer automation that keeps solved coding problems, organized GitHub solutions and Notion records in sync. | React · TypeScript · Node.js · GitHub API · Notion |
-
-## Areas I work in
-
-- **Full-stack development** — building complete product workflows, from frontend interaction to APIs and persistence.
-- **AI and applied ML** — integrating model-backed features, building data pipelines, and evaluating predictive systems.
-- **Application security** — static analysis, dependency risk, secret detection, and making security findings easier to act on.
-- **Computer vision and creative computing** — gesture interfaces, real-time visual processing, generative graphics, and interactive 3D.
-
-## Tools & technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="JavaScript, TypeScript, Python and Java" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi" alt="React, Next.js, Node.js and FastAPI" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker,git,githubactions" alt="MongoDB, PostgreSQL, Firebase, Docker, Git and GitHub Actions" />
-</p>
-
-I choose tools based on the problem rather than forcing every project into the same stack.
-
-## Current interests
-
-- Deepening backend engineering and Java/Spring development.
-- Building practical AI-assisted developer tools.
-- Improving application-security analysis and code intelligence.
-- Exploring browser graphics, interactive environments, and performance-conscious 3D.
-
-## Beyond the code
-
-I’m drawn to cinema, music, video editing, VFX, animation, and experimental visual design. Those interests often influence how I approach interfaces: I care about pacing, atmosphere, composition, and the small details that make software feel considered.
+</details>
 
 ---
 
+## Things I've been building
+
+<sub>A selection of projects across different problems and disciplines—not a list of every repository.</sub>
+
+### 01 · Application security
+
+<a href="https://github.com/IshanG2111/ARVE"><strong>ARVE — Adaptive Remediation & Verification Engine ↗</strong></a>
+
+A security-analysis workflow that brings scanner findings, source-code context and remediation reporting together. Built around isolated scanner execution, finding normalization, code intelligence and a unified analysis experience.
+
+<sub>Python · FastAPI · React · TypeScript · PostgreSQL · Docker · Celery</sub>
+
+---
+
+### 02 · Learning through interaction
+
+<a href="https://github.com/IshanG2111/EcoQuest"><strong>EcoQuest ↗</strong></a> · <a href="https://ecoquest-woad.vercel.app/">Live experience ↗</a>
+
+A gamified sustainability-learning experience—using an interactive world, progression and playful interface design to make learning feel exploratory.
+
+<sub>Next.js · TypeScript · Firebase · UI engineering</sub>
+
+---
+
+### 03 · Machine learning & earth observation
+
+<a href="https://github.com/IshanG2111/RainFall-Prediction-Model-"><strong>वृष्टि AI / Rainfall Prediction ↗</strong></a>
+
+An experimental rainfall-prediction workflow using INSAT-3DR satellite-derived features, data processing and machine-learning models to explore short-term precipitation prediction.
+
+<sub>Python · ML · Satellite data · Model evaluation</sub>
+
+---
+
+### 04 · Creative computing
+
+<a href="https://github.com/IshanG2111/DREAMSCAPE"><strong>DREAMSCAPE ↗</strong></a>
+
+A cinematic lyric-wallpaper experiment where typography, generative imagery, motion and audio become part of a visual composition.
+
+<sub>Creative coding · Generative visuals · Audio-reactive design</sub>
+
+---
+
+### 05 · Developer automation
+
+<a href="https://github.com/IshanG2111/leetcode-auto-sync"><strong>LeetCode → Notion automation ↗</strong></a>
+
+A workflow for synchronizing coding activity and structured problem-solving records—reducing manual tracking and keeping a learning system organized.
+
+<sub>Automation · APIs · TypeScript / JavaScript</sub>
+
+---
+
+## What I gravitate toward
+
+| | |
+|---|---|
+| **Full-stack systems** | Product interfaces, APIs, authentication, data and end-to-end workflows |
+| **AI & machine learning** | Applied ML, model-backed features, data pipelines and evaluation |
+| **Security engineering** | Dependency analysis, static analysis, secrets and contextual remediation |
+| **Creative technology** | Interactive 3D, generative visuals, computer vision and unusual interfaces |
+
+## Tools I use
+
 <div align="center">
 
-**Build thoughtfully. Understand the system. Make it useful.**
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,fastapi" alt="JavaScript, TypeScript, Python, Java, React, Next.js, Node.js and FastAPI" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker,git,githubactions,linux,tailwind" alt="MongoDB, PostgreSQL, Firebase, Docker, Git, GitHub Actions, Linux and Tailwind CSS" />
 
-<sub>Thanks for stopping by — feel free to explore the repositories or reach out.</sub>
+</div>
+
+<sub>Tools are a means, not the point. I pick up technologies as the project needs them.</sub>
+
+---
+
+## Experience
+
+- **Tata Motors** — software engineering internship experience working on supplier / procurement collaboration software.
+- **Tata Cummins** — software engineering internship experience building document-viewer applications deployed across enterprise screens.
+
+<sub>This is a short overview; the details belong on my portfolio and résumé.</sub>
+
+---
+
+## Elsewhere
+
+- 🌐 [Portfolio](https://portfolio-ishang.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/)
+- ✉️ [Email](mailto:ishan.ghosh2004@gmail.com)
+
+<div align="center">
+
+<sub>I'm interested in how software works—and in making the things I build feel worth using.</sub>
 
 </div>
