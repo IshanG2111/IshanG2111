@@ -1,7 +1,7 @@
 <!-- PERSONAL PROFILE · EDITORIAL / PROJECT-FIRST -->
 
 <div align="center">
-  <img src="assets/profile-hero.svg" width="100%" alt="Ishan Ghosh — build things" />
+  <img src="assets/ishan-editorial-banner.svg" width="100%" alt="Ishan Ghosh — build things" />
 </div>
 
 <div align="center">
