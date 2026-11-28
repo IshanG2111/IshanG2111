@@ -1,127 +1,95 @@
-<!-- PROFILE README · CONTENT-FIRST EDITORIAL VERSION -->
+<!-- PERSONAL PROFILE · EDITORIAL / PROJECT-FIRST -->
 
 <div align="center">
-  <img src="assets/profile-hero.svg" alt="Ishan Ghosh — building software across full-stack, AI, security and creative computing" width="100%" />
+  <img src="assets/profile-hero.svg" width="100%" alt="Ishan Ghosh — build things" />
 </div>
 
 <div align="center">
-
-[Portfolio](https://portfolio-ishang.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/) · [Email](mailto:ishan.ghosh2004@gmail.com)
-
+  <a href="https://portfolio-ishang.vercel.app/">PORTFOLIO</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/ishan-ghosh-7b33a4336/">LINKEDIN</a> &nbsp; / &nbsp; <a href="mailto:ishan.ghosh2004@gmail.com">CONTACT</a>
 </div>
 
 ---
 
-I'm **Ishan** — a Computer Science student and software builder interested in the intersection of **full-stack engineering, AI, security tooling and creative technology**.
+I'm **Ishan Ghosh**, a Computer Science student who likes building across the boundaries of software engineering and creative technology.
 
-I like taking an idea from a rough sketch to something that works: designing the interface, connecting the systems behind it, automating the repetitive parts, and figuring out the details that make the experience feel complete.
+I care about the whole thing: how a product feels, how the system underneath works, how the pieces fit together, and whether it solves something real. Most of my learning happens by making projects that force me to explore unfamiliar territory.
 
-<details>
-<summary><strong>A little more about me</strong></summary>
+<sub>KIIT University · B.Tech Computer Science · 2027</sub>
 
-- 🎓 Computer Science, KIIT University · 2027
-- 🧰 Experience across enterprise software, full-stack product development, ML workflows and computer vision
-- 🧪 I learn by building experiments—not just collecting frameworks
-- 🎞️ Outside code: cinema, music, editing, VFX, animation and visual design
+## Selected projects
 
+<details open>
+<summary><strong>ARVE</strong> / Application security & code intelligence</summary>
+
+A security-analysis platform bringing scanner results, code context and remediation reporting into one workflow. Combines isolated scanner execution, finding normalization, source-code intelligence and reporting.
+
+**Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, Docker, Celery
+
+[Repository ↗](https://github.com/IshanG2111/ARVE)
 </details>
 
----
+<details>
+<summary><strong>EcoQuest</strong> / Sustainability, gamified</summary>
 
-## Things I've been building
+An interactive sustainability-learning experience designed around exploration, playful progression and a distinctive interface.
 
-<sub>A selection of projects across different problems and disciplines—not a list of every repository.</sub>
+**Stack:** Next.js, TypeScript, Firebase
 
-### 01 · Application security
+[Repository ↗](https://github.com/IshanG2111/EcoQuest) · [Live ↗](https://ecoquest-woad.vercel.app/)
+</details>
 
-<a href="https://github.com/IshanG2111/ARVE"><strong>ARVE — Adaptive Remediation & Verification Engine ↗</strong></a>
+<details>
+<summary><strong>Rainfall Prediction</strong> / Machine learning & satellite data</summary>
 
-A security-analysis workflow that brings scanner findings, source-code context and remediation reporting together. Built around isolated scanner execution, finding normalization, code intelligence and a unified analysis experience.
+Exploring short-term rainfall prediction using INSAT-3DR-derived data, feature processing and model experimentation.
 
-<sub>Python · FastAPI · React · TypeScript · PostgreSQL · Docker · Celery</sub>
+**Stack:** Python, machine learning, satellite data
 
----
+[Repository ↗](https://github.com/IshanG2111/RainFall-Prediction-Model-)
+</details>
 
-### 02 · Learning through interaction
+<details>
+<summary><strong>DREAMSCAPE</strong> / Creative computing</summary>
 
-<a href="https://github.com/IshanG2111/EcoQuest"><strong>EcoQuest ↗</strong></a> · <a href="https://ecoquest-woad.vercel.app/">Live experience ↗</a>
+An audiovisual lyric-wallpaper experiment with typography, generative imagery, motion and audio-reactive composition.
 
-A gamified sustainability-learning experience—using an interactive world, progression and playful interface design to make learning feel exploratory.
+[Repository ↗](https://github.com/IshanG2111/DREAMSCAPE)
+</details>
 
-<sub>Next.js · TypeScript · Firebase · UI engineering</sub>
+<details>
+<summary><strong>LeetCode → Notion Automation</strong> / Developer workflows</summary>
 
----
+An automation project connecting coding activity and structured tracking—reducing repetitive work and keeping a learning workflow in sync.
 
-### 03 · Machine learning & earth observation
+[Repository ↗](https://github.com/IshanG2111/leetcode-auto-sync)
+</details>
 
-<a href="https://github.com/IshanG2111/RainFall-Prediction-Model-"><strong>वृष्टि AI / Rainfall Prediction ↗</strong></a>
+## My orbit
 
-An experimental rainfall-prediction workflow using INSAT-3DR satellite-derived features, data processing and machine-learning models to explore short-term precipitation prediction.
+- **Software:** full-stack development, backend systems, APIs and automation.
+- **AI / ML:** applied machine learning, model integrations, data workflows and experimentation.
+- **Security:** application-security analysis, dependency risks, static analysis and code context.
+- **Creative technology:** computer vision, generative graphics, 3D, animation and visual storytelling.
 
-<sub>Python · ML · Satellite data · Model evaluation</sub>
+## Tools — lately
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,fastapi,mongodb,postgres,firebase,docker,git,linux" alt="Technologies I work with" />
+</p>
 
-### 04 · Creative computing
-
-<a href="https://github.com/IshanG2111/DREAMSCAPE"><strong>DREAMSCAPE ↗</strong></a>
-
-A cinematic lyric-wallpaper experiment where typography, generative imagery, motion and audio become part of a visual composition.
-
-<sub>Creative coding · Generative visuals · Audio-reactive design</sub>
-
----
-
-### 05 · Developer automation
-
-<a href="https://github.com/IshanG2111/leetcode-auto-sync"><strong>LeetCode → Notion automation ↗</strong></a>
-
-A workflow for synchronizing coding activity and structured problem-solving records—reducing manual tracking and keeping a learning system organized.
-
-<sub>Automation · APIs · TypeScript / JavaScript</sub>
-
----
-
-## What I gravitate toward
-
-| | |
-|---|---|
-| **Full-stack systems** | Product interfaces, APIs, authentication, data and end-to-end workflows |
-| **AI & machine learning** | Applied ML, model-backed features, data pipelines and evaluation |
-| **Security engineering** | Dependency analysis, static analysis, secrets and contextual remediation |
-| **Creative technology** | Interactive 3D, generative visuals, computer vision and unusual interfaces |
-
-## Tools I use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,fastapi" alt="JavaScript, TypeScript, Python, Java, React, Next.js, Node.js and FastAPI" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker,git,githubactions,linux,tailwind" alt="MongoDB, PostgreSQL, Firebase, Docker, Git, GitHub Actions, Linux and Tailwind CSS" />
-
-</div>
-
-<sub>Tools are a means, not the point. I pick up technologies as the project needs them.</sub>
-
----
+Not a checklist. Just the tools that have been finding their way into my projects.
 
 ## Experience
 
-- **Tata Motors** — software engineering internship experience working on supplier / procurement collaboration software.
-- **Tata Cummins** — software engineering internship experience building document-viewer applications deployed across enterprise screens.
+- **Tata Motors** — software engineering internship, supplier / procurement collaboration systems.
+- **Tata Cummins** — software engineering internship, enterprise document-viewer applications.
 
-<sub>This is a short overview; the details belong on my portfolio and résumé.</sub>
+## Outside the terminal
+
+Cinema, music, video editing, VFX, animation, visual experiments, and collecting ideas from things that don't look like software.
 
 ---
 
-## Elsewhere
-
-- 🌐 [Portfolio](https://portfolio-ishang.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/)
-- ✉️ [Email](mailto:ishan.ghosh2004@gmail.com)
-
 <div align="center">
-
-<sub>I'm interested in how software works—and in making the things I build feel worth using.</sub>
-
+<sub>More experiments, unfinished ideas and projects live in the repositories below.</sub>
 </div>
