@@ -1,187 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ishan%20Ghosh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="assets/profile-hero.svg" alt="Ishan Ghosh — software engineer, full-stack developer and AI systems builder" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+at+the+intersection+of+AI+%26+Web;ML+Pipelines+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-Stack;Top+1%2C500+MIT+Sloan+AI+Hackathon+%F0%9F%8F%86;1000%2B+DSA+Problems+Solved+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+<p>
+  <a href="https://www.linkedin.com/in/ishan-ghosh-7b33a4336/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-ishang.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7C6EE6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ishan.ghosh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishan.ghosh2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshanG2111)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ishang.vercel.app/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=IshanG2111&label=Profile%20Views&color=6d28d9&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/IshanG2111?label=Followers&style=flat-square&color=6d28d9)
+**Computer Science undergraduate · Full-stack engineering · AI systems**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Computer Science undergrad at KIIT University with a passion for building things at the intersection of AI, computer vision, and full-stack engineering. I've shipped production systems at Tata Cummins, contributed to open source, and competed at hackathons like MIT Sloan's AI Challenge (Top 1,500 globally). Whether it's engineering ML pipelines on satellite data, automating workflows with n8n, or building accessible web platforms — I care deeply about writing clean code that solves real problems. Currently exploring advanced computer vision and building Vrishti AI, a rainfall prediction platform powered by 120,000+ INSAT-3DR records. Always open to internships, collabs, and interesting problems.
+I'm **Ishan Ghosh**, a Computer Science undergraduate at **KIIT University (B.Tech, 2027)**. I enjoy building software that connects thoughtful interfaces with dependable systems — from full-stack applications and developer tools to machine-learning workflows and computer-vision experiments.
 
----
+My experience includes engineering work in enterprise environments at **Tata Cummins** and **Tata Motors**. I’m especially interested in the parts of software engineering where product thinking meets systems-level problem solving.
 
-## 🎵 On Repeat · Coding Soundtrack
+## Selected work
 
-<div align="center">
+A few projects that represent the kind of problems I like working on.
 
-<a href="https://music.apple.com" target="_blank">
-  <img src="https://apple-music-readme-snowy.vercel.app/?" alt="Currently Playing on Apple Music" height="380"/>
-</a>
-<img src="git-koi.gif" alt="My GitHub Koi" />
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| **[ARVE](https://github.com/IshanG2111/ARVE)** | Application-security analysis platform combining dependency scanning, secret detection, SAST, code intelligence, normalized findings and report generation. | Python · FastAPI · React · TypeScript · PostgreSQL · Docker |
+| **[EcoQuest](https://github.com/IshanG2111/EcoQuest)** · [Live demo](https://ecoquest-woad.vercel.app/) | A gamified ecological-learning environment with an interactive knowledge graph, retro-inspired interface and learning progression. | Next.js · TypeScript · Firebase · MongoDB |
+| **[वृष्टि AI](https://github.com/IshanG2111/RainFall-Prediction-Model-)** | Rainfall-forecasting project built around INSAT-3DR satellite-derived features, a machine-learning pipeline and a web interface. | Python · scikit-learn · FastAPI · React |
+| **[DREAMSCAPE](https://github.com/IshanG2111/DREAMSCAPE)** | An audiovisual experiment combining album artwork, generative ASCII imagery, kinetic lyrics and audio-reactive visuals. | Web technologies · Generative graphics · Audio |
+| **[Aergia Engine](https://github.com/IshanG2111/leetcode-auto-sync)** | Developer automation that keeps solved coding problems, organized GitHub solutions and Notion records in sync. | React · TypeScript · Node.js · GitHub API · Notion |
 
----
+## Areas I work in
 
-## 📊 Activity & Problem Solving
+- **Full-stack development** — building complete product workflows, from frontend interaction to APIs and persistence.
+- **AI and applied ML** — integrating model-backed features, building data pipelines, and evaluating predictive systems.
+- **Application security** — static analysis, dependency risk, secret detection, and making security findings easier to act on.
+- **Computer vision and creative computing** — gesture interfaces, real-time visual processing, generative graphics, and interactive 3D.
 
-<div align="center">
+## Tools & technologies
 
-<a href="https://github.com/IshanG2111">
-  <img src="https://streak-stats.demolab.com/?user=IshanG2111&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" height="185"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/Ishan_Ghosh21/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Ishan_Ghosh21?theme=dark&font=JetBrains%20Mono&ext=heatmap" height="185" alt="LeetCode Stats"/>
-</a>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌧️ Vrishti AI</h3>
-      <p><strong>ML-Powered Rainfall Prediction Platform</strong></p>
-      <p>End-to-end ML pipeline on 120,000+ INSAT-3DR satellite records. Achieved R²=0.76 with 5-fold TimeSeriesSplit CV — outperforming Random Forest, SVM & Decision Tree baselines. Sketch-aesthetic React frontend with CartoDB maps.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Leaflet-1991000?style=flat-square&logo=leaflet&logoColor=white"/>
-      </p>
-      <a href="https://github.com/IshanG2111">
-        <img src="https://img.shields.io/badge/📁%20View%20Repo-24243e?style=for-the-badge"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 EcoQuest</h3>
-      <p><strong>Gamified Sustainability Platform</strong></p>
-      <p>Led development of a 20+ module gamified eco-platform with real-time Firebase leaderboard, streak/badge system, role-based access control, and sub-100ms optimistic UI. Deployed to Vercel with PWA capabilities and ARIA accessibility.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <a href="https://ecoquest-woad.vercel.app/desktop">
-        <img src="https://img.shields.io/badge/🌐%20Live%20Demo-6D28D9?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/IshanG2111/EcoQuest">
-        <img src="https://img.shields.io/badge/📁%20View%20Repo-24243e?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 LeetCode AI Sync Engine</h3>
-      <p><strong>Automated Knowledge Pipeline</strong></p>
-      <p>Fully automated ETL pipeline syncing 1,000+ LeetCode submissions to Notion with Gemini-generated insights. 40% duplicate reduction via idempotency keys + hash-based deduplication. Zero manual intervention post-deploy.</p>
-      <p>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-      <a href="https://github.com/IshanG2111/LC-automation">
-        <img src="https://img.shields.io/badge/📁%20View%20Repo-24243e?style=for-the-badge"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Gesture-Based AR Doc Viewer</h3>
-      <p><strong>Hands-Free AR Interface</strong></p>
-      <p>Computer vision powered AR interface for navigating documents using hand gestures — no touch required. Real-time hand landmark detection and gesture classification using OpenCV and MediaPipe pipelines.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <a href="https://github.com/IshanG2111/ar-notes-opener">
-        <img src="https://img.shields.io/badge/📁%20View%20Repo-24243e?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql,bash" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="JavaScript, TypeScript, Python and Java" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi" alt="React, Next.js, Node.js and FastAPI" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker,git,githubactions" alt="MongoDB, PostgreSQL, Firebase, Docker, Git and GitHub Actions" />
 </p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind" height="48"/>
-</p>
+I choose tools based on the problem rather than forcing every project into the same stack.
 
-### Infrastructure & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vercel,gcp,postman,githubactions" height="48"/>
-</p>
+## Current interests
 
-### AI / ML / Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" height="48"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=for-the-badge&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="38"/>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="38"/>
-</p>
+- Deepening backend engineering and Java/Spring development.
+- Building practical AI-assisted developer tools.
+- Improving application-security analysis and code intelligence.
+- Exploring browser graphics, interactive environments, and performance-conscious 3D.
 
----
+## Beyond the code
 
-## 🏅 Highlights
-
-| 🏆 Achievement | Details |
-|---|---|
-| 🥇 MIT Sloan AI Hackathon | **Top 1,500 globally** — 2025 |
-| 🇮🇳 Smart India Hackathon | National-level participant |
-| 🧠 DSA Grind | **1000+ problems** on LeetCode, Codechef & GFG |
-| 🌐 Google Developer Program | **Premium Tier** member |
-| 📮 Postman Student Expert | Certified in REST API design & testing |
-| 🔓 Open Source (GSSoC 2025) | 15+ merged components · Dark mode shipped globally |
-| 🏭 Industry Experience | SWE Intern @ **Tata Cummins** — 95% user adoption at launch |
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshanG2111/IshanG2111/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshanG2111/IshanG2111/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IshanG2111/IshanG2111/output/github-snake.svg"/>
-</picture>
-</div>
+I’m drawn to cinema, music, video editing, VFX, animation, and experimental visual design. Those interests often influence how I approach interfaces: I care about pacing, atmosphere, composition, and the small details that make software feel considered.
 
 ---
 
 <div align="center">
 
-*"Build things that matter. Automate everything else."*
+**Build thoughtfully. Understand the system. Make it useful.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
+<sub>Thanks for stopping by — feel free to explore the repositories or reach out.</sub>
 
 </div>
