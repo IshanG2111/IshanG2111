@@ -1,98 +1,141 @@
+<div align="center">
+
 # Ishan Ghosh
 
-**Computer Science undergraduate · Software engineering · Full-stack development · Applied AI**
+**Software Engineering · Full-stack Development · Applied AI**
 
-I build software across product engineering, backend systems, applied machine learning, and creative technology. I’m interested in taking ideas from a working prototype to a dependable product: understanding the problem, designing the experience, building the system behind it, and refining the details.
+Building software, exploring systems, and experimenting with technology beyond the conventional.
 
-**KIIT University** · B.Tech, Computer Science · Class of 2027
+<a href="https://portfolio-ishang.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/ishan-ghosh-7b33a4336/">LinkedIn</a> · <a href="mailto:ishan.ghosh2004@gmail.com">Email</a>
 
-[Portfolio](https://portfolio-ishang.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/) · [Email](mailto:ishan.ghosh2004@gmail.com)
-
----
-
-## Professional experience
-
-### Tata Motors — Software Engineering Intern
-*May 2026 – Present*
-
-Working on a **Supplier Relationship Management (SRM) portal** for procurement and supplier collaboration. The platform brings supplier-facing and administrator workflows into one system, spanning supplier onboarding, RFQs and bids, purchase orders, delivery and invoice tracking, and operational visibility.
-
-### Tata Cummins — Software Engineering Intern
-*May 2025 – June 2025*
-
-Developed document-viewer applications for **SWM, PFMEA, and CP documentation**, supporting access to operational documents across enterprise displays. The applications were deployed across **100+ screens**.
+</div>
 
 ---
 
-## Selected projects
+Computer Science undergraduate at **KIIT University (2027)** interested in product engineering, backend systems, applied machine learning, application security, and creative technology. I like working across the stack—from shaping the interface and user experience to building the systems and workflows behind it.
 
-A selection of work that reflects the systems and problems I enjoy building.
+## Experience
 
-### [ARVE — Adaptive Remediation & Verification Engine](https://github.com/IshanG2111/ARVE)
-**Application security · Code analysis · Full-stack systems**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A platform that brings dependency vulnerabilities, secret detection, static-analysis findings, source-code context, and remediation reporting into one workflow.
+### Tata Motors
+**Software Engineering Intern**  
+<sub>May 2026 – Present</sub>
 
-My work has focused on repository ingestion, authentication and frontend workflows, OSV-Scanner and Semgrep integration, and security report generation.
+Working on a Supplier Relationship Management (SRM) platform for procurement and supplier collaboration, covering workflows around supplier onboarding, RFQs, bids, orders, deliveries and invoices.
 
-*Python · FastAPI · React · TypeScript · PostgreSQL · Docker · Celery · Redis*
+</td>
+<td width="50%" valign="top">
 
-### [EcoQuest](https://github.com/IshanG2111/EcoQuest) · [Live application](https://ecoquest-woad.vercel.app/)
-**Gamified learning · Interactive systems · Product engineering**
+### Tata Cummins
+**Software Engineering Intern**  
+<sub>May – June 2025</sub>
 
-An interactive sustainability-learning platform built around an exploratory, retro-inspired environment. It combines an ecological knowledge graph with learning activities, progression, and a multi-module application experience.
+Developed SWM, PFMEA and CP document-viewer applications for enterprise use, deployed across **100+ screens**.
 
-*Next.js · TypeScript · Firebase · MongoDB · Tailwind CSS*
+</td>
+</tr>
+</table>
 
-### [वृष्टि AI — Rainfall Prediction](https://github.com/IshanG2111/RainFall-Prediction-Model-)
-**Applied machine learning · Earth observation · Data engineering**
+## Selected work
 
-A rainfall-prediction project using INSAT-3DR satellite-derived meteorological features. The work covers data preparation, feature engineering, model experimentation, temporal evaluation, and an API-backed application.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Python · Pandas · scikit-learn · FastAPI · React*
+### [ARVE](https://github.com/IshanG2111/ARVE)
+<sub>APPLICATION SECURITY · CODE ANALYSIS</sub>
 
-### [Aergia Engine](https://github.com/IshanG2111/leetcode-auto-sync) · [Live application](https://aergia-one.vercel.app/)
-**Developer tooling · Workflow automation · API integration**
+Adaptive Remediation & Verification Engine—bringing security findings, code context and remediation reporting into a unified workflow.
 
-A developer automation system that connects LeetCode activity with GitHub and Notion. It organizes solved problems, synchronizes solution code and metadata, and reduces repetitive tracking work.
+**My contributions:** ingestion, authentication, frontend workflows, OSV-Scanner and Semgrep integration, report generation.
 
-*React · TypeScript · Node.js · Express · Three.js · GitHub API · Notion API*
+<sub>Python · FastAPI · React · TypeScript · Docker</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [EcoQuest](https://ecoquest-woad.vercel.app/)
+<sub>PRODUCT ENGINEERING · INTERACTIVE LEARNING</sub>
+
+An exploratory sustainability-learning experience with gamified progression and an interactive environment.
+
+<sub>Next.js · TypeScript · Firebase · MongoDB</sub>
+
+[Repository](https://github.com/IshanG2111/EcoQuest) · [Live demo](https://ecoquest-woad.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [वृष्टि AI](https://github.com/IshanG2111/RainFall-Prediction-Model-)
+<sub>ML · SATELLITE DATA</sub>
+
+Rainfall prediction experimentation using INSAT-3DR meteorological features, data preparation, feature engineering and model evaluation.
+
+<sub>Python · Pandas · scikit-learn · FastAPI</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Aergia Engine](https://aergia-one.vercel.app/)
+<sub>DEVELOPER AUTOMATION · INTEGRATIONS</sub>
+
+A workflow connecting LeetCode activity with GitHub and Notion to automate tracking and organize problem-solving data.
+
+<sub>React · TypeScript · Node · GitHub API · Notion API</sub>
+
+[Repository](https://github.com/IshanG2111/leetcode-auto-sync) · [Live demo](https://aergia-one.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### [DREAMSCAPE](https://github.com/IshanG2111/DREAMSCAPE)
-**Creative computing · Generative visuals · Audio interaction**
+<sub>CREATIVE COMPUTING · AUDIOVISUAL DESIGN</sub>
 
-An audiovisual lyric-wallpaper experiment for Windows. It combines album-inspired visual composition, generative ASCII imagery, kinetic typography, and audio-aware motion—treating each active lyric as part of a visual path.
+An experimental Windows lyric-wallpaper concept using generative visuals, kinetic typography and audio-aware motion—where words become part of a moving visual composition.
 
-*Creative coding · Generative graphics · Audio-reactive interaction*
+</td>
+</tr>
+</table>
+
+## Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,fastapi,mongodb,postgres,firebase,docker,git,github,linux&perline=8" alt="Technologies" />
+</p>
+
+| Domain | Tools and technologies |
+|:--|:--|
+| **Languages** | JavaScript · TypeScript · Python · Java · SQL |
+| **Frontend** | React · Next.js · Tailwind CSS · shadcn/ui |
+| **Backend** | Node.js · Express · FastAPI |
+| **Data & infra** | MongoDB · PostgreSQL · Firebase · Redis · Docker |
+| **AI & vision** | scikit-learn · Pandas · OpenCV · MediaPipe |
+| **Workflow** | Git · GitHub Actions · n8n · Vercel |
+
+## Currently exploring
+
+- Backend engineering and the Java / Spring ecosystem
+- Applied AI, ML workflows and AI-enabled products
+- Application-security tooling and developer workflows
+- Computer vision, creative coding, interactive 3D and generative interfaces
+
+## Outside the code
+
+Cinema, music, photography, video editing, VFX, animation, and experimental visual design. These interests often shape the interfaces and interactive experiences I build.
 
 ---
 
-## Technical toolkit
+<div align="center">
 
-Technologies I’ve used across projects and engineering work:
+**[Portfolio](https://portfolio-ishang.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/) · [Email](mailto:ishan.ghosh2004@gmail.com)**
 
-| Area | Technologies |
-|---|---|
-| **Languages** | JavaScript, TypeScript, Python, Java, SQL |
-| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS, shadcn/ui |
-| **Backend** | Node.js, Express, FastAPI |
-| **Data & infrastructure** | MongoDB, PostgreSQL, Firebase, Redis, Docker |
-| **AI, ML & computer vision** | scikit-learn, Pandas, OpenCV, MediaPipe, Gemini |
-| **Automation & delivery** | n8n, Git, GitHub Actions, Vercel |
+<sub>Thanks for stopping by.</sub>
 
-I choose technologies based on the requirements of the project rather than trying to use the same stack everywhere.
-
-## Current interests
-
-- Building reliable backend services and strengthening my Java / Spring ecosystem knowledge.
-- Developing practical AI-enabled tools and data-driven applications.
-- Improving application-security workflows and developer tooling.
-- Exploring computer vision, browser graphics, interactive 3D, and generative interfaces.
-
-## Beyond engineering
-
-I’m interested in cinema, music, photography, video editing, VFX, animation, and experimental visual design. Those interests influence how I approach software—especially interface composition, motion, atmosphere, and interaction.
-
----
-
-**Get in touch:** [LinkedIn](https://www.linkedin.com/in/ishan-ghosh-7b33a4336/) · [Email](mailto:ishan.ghosh2004@gmail.com) · [Portfolio](https://portfolio-ishang.vercel.app/)
+</div>
